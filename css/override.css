@@ -3,6 +3,10 @@ hr {
   margin-bottom: 20px;
 }
 
+p {
+  margin-bottom: 50px;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
