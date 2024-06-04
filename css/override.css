@@ -3,13 +3,20 @@ hr {
   margin-bottom: 20px;
 }
 
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
+  margin-bottom: 20px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
 }
 
 h2 {
   margin-top: 100px;
+  margin-bottom: 30px;
 }
+
+
 
 /* Post navigation links */
 .post_navi {
